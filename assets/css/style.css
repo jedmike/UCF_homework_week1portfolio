@@ -1,7 +1,9 @@
 body {background-color: rgb(75, 238, 238);
     margin-top: 0pt; margin-bottom: 0pt;}
-#pg1p {background-color: yellow;}
-#navbar {background-color: green}
-._navlink {background-color: tan;}
-#headshot  img {max-width: 25%; max-width: auto;}
+#navbar {background-color: tomato}
+#navbar {background-color: green;}
+._navlink {background-color: green;width:15%;float: right;}
+#bioblock {clear: both;background-color: yellowgreen;padding: 20pt}
+#headshot img {max-width: 20%; max-height: auto;float: left;}
+#pg1p {clear: both;font-style: italic; font-size: larger}
 #footbar {background-color: thistle}
