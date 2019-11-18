@@ -1,0 +1,27 @@
+body {
+    max-width: 95%;
+    max-height: 95%;
+    /* background-image: src="/Users/michaeljedrzejewski/Desktop/code/UCF/homework/Portfolio/assets/css/rsz_oq2an4.jpg"; */
+    background-color: rgb(62, 64, 71);
+}
+
+#bioblock {
+    clear: both;
+    background-color: white;
+    color: black;
+    font-size: 12pt;
+}
+
+.footer {
+    color: grey;
+    text-align: center;
+    height: 50px;
+}
+
+.page3-title {
+    color: white
+}
+
+a {
+    color: white
+}
